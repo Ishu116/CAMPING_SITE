@@ -10,6 +10,7 @@ var express                 = require("express"),
     methodOverride          = require('method-override'),
     passport                = require('passport'),
     LocalAtrategy           = require('passport-local');
+    
 
 
     //Requiring Routes
